@@ -1,0 +1,2 @@
+#command to overide remote connection to a new url
+git remote set-url origin https://github.com/BitSparkTech/Internship_App.git
